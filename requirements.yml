@@ -1,0 +1,33 @@
+name: qnlp
+channels:
+  - plotly
+  - defaults
+dependencies:
+  - cycler
+  - fonttools
+  - graphviz
+  - jupyter
+  - kiwisolver
+  - matplotlib
+  - mpmath
+  - networkx
+  - numpy
+  - pandas
+  - pillow
+  - pip
+  - plotly
+  - python=3
+  - scikit-learn
+  - scikit-learn-intelex
+  - scipy
+  - statsmodels
+  - sympy
+  - typing-extensions
+  - pip:
+    - discopy
+    - kaleido
+    - noisyopt
+    - pylatexenc
+    - pytket
+    - pytket-qiskit
+    - qiskit
